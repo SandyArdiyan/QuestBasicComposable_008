@@ -90,7 +90,6 @@ fun TataletakRow2(modifier: Modifier) {
             Text(text = "Komponen3kolom1")
         }
 
-
         // Kolom 2
         Column {
             Text(text = "Komponen1Kolom2")
@@ -99,3 +98,4 @@ fun TataletakRow2(modifier: Modifier) {
         }
     }
 }
+
