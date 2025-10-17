@@ -168,7 +168,7 @@ fun TataLetakBoxColumnRow(modifier: Modifier) {
     ) {
         Image(
             painter = gambar,
-            contentDescription = null,
+            contentDescription = kucing ganteng,
             contentScale = ContentScale.Fit)
         Text(text = "My kucing",
                     fontSize = 50.sp,
